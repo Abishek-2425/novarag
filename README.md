@@ -25,6 +25,7 @@ cd rag
 python -m venv .venv
 [Activate.ps1](http://_vscodecontentref_/0)
 pip install -r [r.txt](http://_vscodecontentref_/1)
+```
 
 Note: If you prefer, rename r.txt to requirements.txt.
 
