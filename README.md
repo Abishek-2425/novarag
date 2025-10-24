@@ -1,4 +1,4 @@
-# RAGNOVA — Offline Multimodal RAG MVP
+# RAGNOVA — Offline Multimodal RAG MVP - TEAM NOVA8
 
 RAGNOVA is an offline, multimodal Retrieval-Augmented Generation (RAG) MVP. It enables you to upload and query documents (PDF, DOCX, PPTX, Excel, images, audio) using a local vector store and an offline LLM (Ollama or GPT4All). All processing is done locally—no cloud required.
 
