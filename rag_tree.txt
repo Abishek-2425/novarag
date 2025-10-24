@@ -1,0 +1,30 @@
+├── app.py
+├── def/
+│   ├── image.png
+│   └── sample-image.BGsstQXB_1GjvsQ.webp
+├── embeddings/
+│   ├── faiss_index.index
+│   └── meta.pkl
+├── ingestation/
+│   ├── ingest_audio.py
+│   ├── ingest_docx.py
+│   ├── ingest_image.py
+│   └── ingest_pdf.py
+├── llm/
+│   └── ollama_inference.py
+├── r.txt
+├── retrieval/
+│   └── vector_store.py
+└── sample_data/
+    ├── audio/
+    │   ├── sample1.mp3
+    │   └── sample2.mp3
+    ├── docs/
+    │   ├── sample1.docx
+    │   └── sample2.docx
+    ├── images/
+    │   ├── sample1.jpg
+    │   └── sample2.jpg
+    └── pdfs/
+        ├── sample1.pdf
+        └── sample2.pdf

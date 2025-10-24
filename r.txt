@@ -1,0 +1,26 @@
+# Core MVP
+streamlit==1.30.0
+pymupdf==1.22.5
+python-docx==0.8.11
+pytesseract==0.3.10
+sentence-transformers==5.1.1
+faiss-cpu==1.7.4
+
+# Audio transcription
+faster-whisper==1.2.0
+
+# PPT reading
+python-pptx
+
+# Excel file reading
+pandas
+openpyxl
+xlrd
+
+# Offline LLM
+ollama
+
+# Utilities
+numpy==1.25.2
+torch==2.2.0
+tqdm==4.66.1
