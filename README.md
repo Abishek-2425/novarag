@@ -21,7 +21,7 @@ RAGNOVA is an offline, multimodal Retrieval-Augmented Generation (RAG) MVP. It e
 
 ```powershell
 git clone <your-repo-url>
-cd rag
+cd novarag
 python -m venv .venv
 [Activate.ps1](http://_vscodecontentref_/0)
 pip install -r [r.txt](http://_vscodecontentref_/1)
